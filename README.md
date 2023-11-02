@@ -1,1 +1,2 @@
 ![CI status](https://github.com/user7888/ohtuvarasto/workflows/CI/badge.svg)
+[![codecov](https://codecov.io/gh/user7888/ohtuvarasto/graph/badge.svg?token=08J4GL9TB0)](https://codecov.io/gh/user7888/ohtuvarasto)
